@@ -4,12 +4,11 @@
 Welcome to g2fa. Google two factor auth for Python based apps.
 
 ### Repo:
-https://bitbucket.org/thejeshgn/pyg2fa   [Primary Mercurial Repo]
-
-https://github.com/thejeshgn/pyg2fa.git  [Backup GIT Repo]
+https://github.com/thejeshgn/pyg2fa
 
 ### install:
-hg clone http://code.thejeshgn.com/pyg2fa
+
+git clone https://github.com/thejeshgn/pyg2fa
 cd pyg2fa
 python setup.py install
 

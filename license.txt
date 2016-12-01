@@ -1,5 +1,5 @@
 #===============================================================================
-# Repo: http://code.thejeshgn.com/g2fa
+# Repo: https://github.com/thejeshgn/pyg2fa
 # Copyright (C) 2012 Thejesh GN <i@thejeshgn.com> http://thejeshgn.com
 #
 # 
