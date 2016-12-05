@@ -4,7 +4,7 @@ from os import path
 long_desc = open(path.join(path.dirname(__file__), "README.markdown"), "U").read()
 
 setup(name="pyg2fa", version="1.1",
-      url="http://code.thejeshgn.com/pyg2fa",
+      url="https://github.com/thejeshgn/pyg2fa",
       author="Thejesh GN",
       author_email="i@thejeshgn.com",
       description="Google two factor Authentication for Python",
