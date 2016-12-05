@@ -8,10 +8,11 @@ https://github.com/thejeshgn/pyg2fa
 
 ### install:
 
+```
 git clone https://github.com/thejeshgn/pyg2fa
 cd pyg2fa
 python setup.py install
-
+````
 
 ### Usage:
 * for test run  
@@ -37,4 +38,4 @@ python setup.py install
 ### Tutorial
 * [pyg2fa : Python Library for using Google Authenticator with your Web App](http://thejeshgn.com/2012/06/11/pyg2fa-python-library-google-authenticator-with-web-app/)
 
-#### Copyright (C) 2012 Thejesh GN <i at thejeshgn dot com >, MIT License
+#### Copyright (C) 2012-2016 Thejesh GN <i at thejeshgn dot com >, MIT License
